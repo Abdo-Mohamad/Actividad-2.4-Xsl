@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="libros.xsl"?>
+<libros> 
+    <libro isbn="978-0060997021"> 
+        <titulo>La vida está en otra parte</titulo> 
+        <autor>Milan Kundera</autor> 
+        <fechaPublicacion>1973</fechaPublicacion> 
+    </libro> 
+    <libro isbn="978-8466318372"> 
+        <titulo>Pantaleón y las visitadoras</titulo> 
+        <autor>Mario Vargas Llosa</autor> 
+        <fechaPublicacion>1973</fechaPublicacion> 
+    </libro> 
+    <libro isbn="978-8490625620"> 
+        <titulo>Conversación en la catedral</titulo> 
+        <autor>Mario Vargas Llosa</autor> 
+        <fechaPublicacion>1969</fechaPublicacion> 
+    </libro> 
+</libros>
